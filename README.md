@@ -16,17 +16,6 @@ Linear Regression is a supervised learning algorithm used for predicting a conti
 The objective is to find the best-fitting line (in higher dimensions, a hyperplane) by minimizing the mean squared error between the predictions and the actual values.
 
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/bedigambar/Linear-Regression-from-Scratch.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install numpy
-   ```
-
 ## Customization
 
 - Adjust the learning rate and number of iterations as needed.
@@ -40,4 +29,4 @@ The objective is to find the best-fitting line (in higher dimensions, a hyperpla
 
 ---
 
-Feel free to contribute or suggest improvements!
+Feel free to suggest improvements!
